@@ -1,0 +1,2 @@
+# WeatherByAI
+AI powered weather
